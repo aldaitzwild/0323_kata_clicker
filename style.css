@@ -1,0 +1,16 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 35pt;
+}
+
+h1, p {
+    text-align: center;
+}
+
+button {
+    font-size: 28pt;
+}
+
+#target {
+    color: rgb(143, 1, 1);
+}
